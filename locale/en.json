@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Desktop notifications",
+    "description": "Posts a system notification when a task finishes or needs approval while the window is hidden or unfocused."
+  }
+}
